@@ -31,7 +31,18 @@ Times:
 - Wed 4-5:30 PM
 - Thu 3-4:30 PM
 
-The TA Kesler O'Connor also has office hours, TBD
+The TA Kesler O'Connor also has office hours:
+
+Weeks HW Due:
+- Mon 1-2 PM
+- Tue 1-2:30 PM
+- Wed 1-2:30 PM
+- Thu 1-2 PM
+
+Weeks No HW Due:
+- Tue 1-2 PM
+- Wed 1-2 PM
+- Thu 1-2 PM
 
 ### Estimated Workload
 This is intended to have a solid workload. This is a three credit course (the standard kind of course).
